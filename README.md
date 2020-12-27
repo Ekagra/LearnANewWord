@@ -1,4 +1,4 @@
-# LearnANewWord_batch
+# LearnANewWord
 Learn a new word and it's meaning everyday.
 
 1) the batch file uses vb script to browse internet explorer and crawls http://www.wordthink.com/category/daily-word/ to look  for "word of the day"
