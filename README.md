@@ -6,4 +6,5 @@ Learn a new word and it's meaning everyday.
 3) then uses speach to speak the definition
 
 #all the vb scripts are created and deployed from the batch file itself
+
 created on- 2015
